@@ -7,3 +7,12 @@ venv/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore csv files
+*.csv
+
+# Ignore datasets folder
+datasets/
+
+# Ignore pkl files
+*.pkl
